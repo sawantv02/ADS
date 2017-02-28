@@ -2,10 +2,10 @@
 
 python3 /src/assignment1/edgarLogAnalysis.py $YEAR
 
-find /src
+#find /src
 
-#mv /src/*zip /src/assignment1/Output/
-#mv /src/log*.txt /src/assignment1/Output/
+mv /src/*csv /src/assignment1/Output/
+mv /src/log*.txt /src/assignment1/Output/
 
 if [ $? -eq 0 ]
 then
