@@ -11,6 +11,9 @@ USER
 
  Normal Public can also use this website to check the reaction associated with the drugs which were reported to the FDA over the past few years and make sure that the given prescribed drug is causing any major harm to health or not.
 
+Pull an image from dockerhub:
+
+docker pull ankitbhayani/finalprojectads2017
 
 Docker run instructions:
 
@@ -18,7 +21,7 @@ docker run -e ACCESS_KEY=<YOUR_ACCESS_KEY> -e SECRET_KEY=<YOUR_SECRET_KEY> -e S3
 
 
 
-Youtube Link:
+Youtube Link: https://www.youtube.com/watch?v=RyIQayhLyBQ
 
 
 
