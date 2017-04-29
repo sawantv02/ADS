@@ -1,0 +1,253 @@
+drugname,route,dose_amt,dose_unit,dose_form,dose_freq,mfr_sndr,pt,outc_cod
+Zofran,UNKNOWN,8,MG,TABLET,Others,Others,Hospitalisation,HO
+VOTRIENT,ORAL,800,MG,UNKNOWN,QD,Others,Vasculitis,OT
+Prolia,SUBCUTANEOUS,60,MG,SOLUTION FOR INJECTION,Others,Others,Death,DE
+SPIRIVA,INHALATION,18,UG,"INHALATION POWDER, HARD CAPSULE",Others,Others,Coronary artery occlusion,HO
+LETAIRIS,UNKNOWN,5,MG,TABLET,QD,Others,Transfusion,OT
+FOSPHENYTOIN SODIUM.,INTRAVENOUS,10,ML,SOLUTION FOR INJECTION,Others,PFIZER,Cardiac failure acute,HO
+HUMIRA,UNKNOWN,40,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,QOW,Others,Dysgraphia,OT
+NEORAL,ORAL,50,MG,Others,Others,Others,Breast cancer,OT
+REVLIMID,Oral,25,MG,CAPSULES,QD,Others,Thrombosis,HO
+Bevacizumab,Intravenous (not otherwise specified),10,MG/KG,INFUSION,Others,ROCHE,Hepatitis toxic,HO
+RANOLAZINE,Oral,1000,MG,TABLET,Others,Others,Chest pain,HO
+VICTOZA,SUBCUTANEOUS,1.8,MG,Others,QD,NOVO NORDISK,Pancreatitis,HO
+TYSABRI,INTRAVENOUS,300,MG,INTRAVENOUS INFUSION,/month,Others,Anticonvulsant drug level increased,HO
+Cialis,UNKNOWN,20,MG,TABLET,Others,Others,Bladder cancer,OT
+Sumatriptan (Unknown),Subcutaneous,0.5,MG,UNK,Others,Others,Optic ischaemic neuropathy,DS
+Finasteride (Unknown),ORAL,1,MG,UNK,QD,Others,Hepatic enzyme increased,OT
+BRILINTA,Oral,90,MG,TABLET,BID,Others,Haemorrhage,OT
+STELARA,Subcutaneous,45,MG,SOLUTION FOR INJECTION,Others,Others,Pneumonia,OT
+REVLIMID,Oral,25,MG,CAPSULES,QD,Others,Oral herpes,OT
+RIBASPHERE,Unknown,200,MG,Others,Others,Others,Fatigue,OT
+REVLIMID,Oral,25,MG,CAPSULES,Others,Others,Oedema peripheral,OT
+LETAIRIS,ORAL,10,MG,Others,Others,Others,Drug ineffective,OT
+Aranesp,SUBCUTANEOUS,500,UG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,Q3W,Others,Death,DE
+RENAGEL,UNKNOWN,4.8,G,Others,QD,Others,Oesophageal ulcer,OT
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION,/wk,Others,Death,DE
+TYVASO,Unknown,72,UG,INHALATION GAS,QID,Others,Lower respiratory tract infection viral,HO
+THALOMID,ORAL,100,MG,Others,Others,Others,Eye irritation,OT
+XELJANZ XR,Unknown,11,MG,PROLONGED-RELEASE TABLET,Others,Others,Death,DE
+BONIVA,UNKNOWN,150,MG,TABLET,Others,Others,Femur fracture,HO
+PRADAXA,ORAL,300,MG,TABLET,QD,BOEHRINGER INGELHEIM,Pericardial haemorrhage,LT
+EXELON PATCH,Transdermal,4.5,MG,TRANS-THERAPEUTIC-SYSTEM,QD,Others,Breast cancer,DE
+CellCept,ORAL,500,MG,TABLET,BID,Others,Systemic lupus erythematosus,HO
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION IN PRE-FILLED PEN,Others,Others,Intervertebral disc protrusion,OT
+LORAZEPAM.,Unknown,1,MG,Others,Others,Others,Delirium,HO
+GLEEVEC,Oral,400,MG,TABLET,BID,Others,Myocardial infarction,LT
+EPOGEN,SUBCUTANEOUS,20000,IU,Others,QW,Others,Local swelling,OT
+PEMBROLIZUMAB.,Intravenous (not otherwise specified),2,MG/KG,POWDER FOR INJECTION,Q3W,Others,Malignant neoplasm progression,DE
+CIALIS,UNKNOWN,5,MG,Others,QD,Others,Renal failure,OT
+COUMADIN TABS 5 MG,ORAL,5,MG,TABLET,Others,Others,Syncope,HO
+Procrit,SUBCUTANEOUS,40000,IU,UNKNOWN FORMULATION,/wk,Others,Renal failure,HO
+DEPAKINE,INTRAVENOUS DRIP,1.2,G,INJECTION,QD,Others,Hepatocellular injury,OT
+fluoxetin,Oral,20,MG,Others,Others,Others,Pulmonary sarcoidosis,OT
+IBRANCE,Oral,125,MG,Others,QD,Others,Death,DE
+POMALYST,Oral,4,MG,CAPSULES,QD,Others,Pneumonia,HO
+AMBRISENTAN,Unknown,10,MG,TABLET,QD,Others,Syncope,OT
+TAXOTERE,INTRAVENOUS,135,MG,Others,Q3W,Others,Alopecia,DS
+MULTAQ,ORAL,400,MG,TABLET,BID,Others,Urinary tract infection,OT
+DECITABINE.,Intravenous (not otherwise specified),15,MG/M**2,LYOPHILIZED POWDER,Others,Others,Acute lymphocytic leukaemia,OT
+Bonviva,ORAL,150,MG,Others,/month,Others,Intracranial aneurysm,DE
+ALPRAZOLAM,Unknown,0.5,MG,Others,Others,Others,Atrial fibrillation,OT
+ARANESP,Unknown,60,UG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,Others,Others,Full blood count decreased,HO
+Enbrel,SUBCUTANEOUS,25,MG,UNKNOWN FORMULATION,BIW,Others,Diverticulitis,HO
+MULTAQ,ORAL,400,MG,TABLET,QD,AVENTIS,Death,DE
+REVLIMID,Oral,10,MG,CAPSULES,Others,Others,Blood glucose increased,OT
+ACETYLSALICYLIC ACID,Oral,100,MG,GASTRO-RESISTANT TABLET,QD,Others,Subdural haematoma,HO
+REMICADE,Intravenous (not otherwise specified),370,MG,LYOPHILIZED POWDER,Others,JANSSEN,Colitis ulcerative,HO
+CYMBALTA,Unknown,60,MG,CAPSULE,Others,Others,Completed suicide,DE
+COSENTYX,Subcutaneous,300,MG,INJECTION,Others,Others,Chronic myeloid leukaemia,OT
+SIMPONI,Subcutaneous,50,MG,SOLUTION FOR INJECTION,Others,JANSSEN,Lower respiratory tract infection,OT
+ABATACEPT,Intravenous (not otherwise specified),750,MG,SOLUTION FOR INFUSION,Others,Others,Nasal operation,OT
+REVLIMID,ORAL,10,MG,Others,QD,Others,Vocal cord paresis,HO
+LETAIRIS,Unknown,10,MG,TABLET,QD,Others,Bronchitis,HO
+Amlodin,ORAL,10,MG,Others,Others,Others,Haemoglobin decreased,OT
+BARACLUDE,Unknown,0.5,MG,Others,QD,Others,Cardiac failure,DE
+INVEGA,Oral,6,MG,OROS (ORAL OSMOTIC) THERAPEUTIC SYSTEM TABLET,Others,JANSSEN,Urinary tract infection,HO
+ACTONEL,ORAL,150,MG,Others,Others,Others,Death,DE
+Ofatumumab,Intravenous (not otherwise specified),1000,MG,Others,Others,GLAXOSMITHKLINE,Tooth infection,HO
+QUETIAPINE,ORAL,1,DF,TABLET,Others,Others,Loss of consciousness,OT
+ADEMPAS,Oral,0.5,MG,TABLET,TID,Others,Sudden death,DE
+Bevacizumab,Intravenous (not otherwise specified),952,MG,SOLUTION FOR INFUSION,Q3W,ROCHE,Faecaloma,HO
+CLARAVIS,Unknown,40,MG,Others,BID,Others,Unintended pregnancy,OT
+JAKAFI,ORAL,20,MG,TABLET,Others,Others,Blood count abnormal,OT
+ZEMPLAR,Intravenous (not otherwise specified),5,UG,INJECTION,Others,Others,Death,DE
+POMALYST,Oral,4,MG,CAPSULES,QD,Others,Disease progression,DE
+INVOKANA,UNKNOWN,300,MG,CAPSULE,Others,Others,Cholelithotomy,OT
+NUCALA,Unknown,100,MG,Others,Others,Others,Eye haemorrhage,OT
+TENOFOVIR DISOPROXIL FUMARATE,UNKNOWN,300,MG,TABLET,Others,Others,Thrombosis,OT
+Ranitidine (Unknown),Oral,150,MG,UNK,BID,Others,Pancreatitis acute,HO
+PLAVIX,ORAL,25,MG,Others,QD,Others,Cardiac failure acute,OT
+GILENYA,Oral,0.5,MG,CAPSULE,Others,Others,Central nervous system lesion,OT
+Mimpara,TRANSPLACENTAL,30,MG,Others,BID,Others,Congenital central nervous system anomaly,CA
+LONSURF,Oral,60,MG,TABLETS,BID,Others,Death,DE
+STELARA,Subcutaneous,45,MG,SOLUTION FOR INJECTION,Others,Others,Cerebral infarction,HO
+BYDUREON,Subcutaneous,2,MG,INJECTION,/wk,ASTRAZENECA,Death,DE
+PEGYLATED COAGULATION FACTOR VIII,Intravenous (not otherwise specified),3996,IU,POWDER FOR SOLUTION FOR INFUSION,1X,BAXALTA,Oesophageal ulcer,HO
+REMICADE,Intravenous (not otherwise specified),500,MG,LYOPHILIZED POWDER,Others,Others,Lung neoplasm malignant,HO
+NIVOLUMAB,Unknown,3,MG/KG,SOLUTION FOR INJECTION,Others,Others,Thrombocytopenia,OT
+Procrit,UNKNOWN,20000,IU/KG,UNKNOWN FORMULATION,QOW,Others,Death,DE
+Irinotecan,Unknown,65,MG/M**2,Others,Others,Others,Intestinal perforation,OT
+REVLIMID,ORAL,25,MG,CAPSULES,QD,Others,Dizziness,OT
+LEVOFLOXACIN.,Unknown,500,MG,UNSPECIFIED,Others,Others,Inappropriate antidiuretic hormone secretion,OT
+FOSRENOL,ORAL,750,MG,ORAL POWDER,Others,Others,Seizure,OT
+PEGINTRON,SUBCUTANEOUS,1.5,UG/KG,POWDER FOR INJECTION,/wk,MERCK,Platelet count decreased,OT
+HUMIRA,Unknown,40,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,QOW,Others,Anaemia,HO
+CYCLOPHOSPHAMIDE INJECTION 1G,Unknown,250,MG/M**2,POWDER FOR SOLUTION FOR INJECTION,Others,Others,Cardiac disorder,DE
+VELCADE,UNKNOWN,3.2,MG/M**2,INJECTION,Others,Others,Pneumonia,HO
+Tazocilline,INTRAVENOUS,4,G,INJECTION,TID,Others,Hypersensitivity vasculitis,HO
+ZOMETA,INTRAVENOUS,4,MG,SOLUTION FOR INFUSION,Others,Others,Osteonecrosis of jaw,OT
+REVLIMID,Oral,25,MG,CAPSULES,Others,Others,Osteoarthritis,HO
+LETAIRIS,ORAL,5,MG,Others,Others,Others,Dyspnoea,HO
+Revatio,ORAL,20,MG,Others,TID,PFIZER,Hypoxia,HO
+NIVOLUMAB,Unknown,165,MG,SOLUTION FOR INJECTION,Q3W,Others,Meningitis aseptic,HO
+ENBREL,Subcutaneous,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Constipation,OT
+Xtandi,ORAL,160,MG,CAPSULE,QD,Others,Death,DE
+TIGECYCLINE.,Unknown,100,MG,Others,Others,Others,Hypofibrinogenaemia,OT
+SAXIZON,Intravenous drip,100,MG,INJECTION,QD,Others,Anaphylactic reaction,HO
+TRAMETINIB,ORAL,1.5,MG,TABLET,QD,GLAXOSMITHKLINE,Pyrexia,HO
+pegfilgrastim,Subcutaneous,6,MG,SOLUTION FOR INJECTION,Others,AMGEN,Non-cardiac chest pain,HO
+TECFIDERA,ORAL,240,MG,PROLONGED-RELEASE CAPSULE,BID,Others,Skin cancer,OT
+NEXAVAR,Oral,800,MG,FILM-COATED TABLET,QD,BAYER,Hepatic failure,DE
+XTANDI,ORAL,160,MG,CAPSULE,QD,Others,Hospitalisation,HO
+ABATACEPT,Subcutaneous,125,MG,SOLUTION FOR INJECTION,/wk,Others,Arthropathy,OT
+TRONOXAL 1G INYECTABLE,INTRAVENOUS,9,MG/M**2,POWDER FOR SOLUTION FOR INFUSION,/cycle,Others,Metastasis,OT
+BSS,Unknown,275,ML,Others,Others,ALCON,Toxic anterior segment syndrome,OT
+CABAZITAXEL,INTRAVENOUS,10,MG/M**2,INTRAVENOUS INFUSION,/wk,Others,Hyponatraemia,HO
+REVLIMID,ORAL,15,MG,Others,Others,Others,Cerebrovascular accident,HO
+TECFIDERA,Oral,120,MG,PROLONGED-RELEASE CAPSULE,Others,Others,Breast cancer,OT
+Certolizumab pegol RA,Subcutaneous,400,MG,Others,QOW,UCB,Basal cell carcinoma,OT
+MAKENA,Unknown,250,MG,INJECTION,/wk,Others,Premature baby,OT
+PRADAXA,ORAL,150,MG,CAPSULE,BID,BOEHRINGER INGELHEIM,Ischaemic stroke,HO
+THALOMID,Oral,50,MG,CAPSULES,QD,Others,Cerebrovascular accident,OT
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION IN PRE-FILLED PEN,Others,Others,Depression,OT
+ELIQUIS,ORAL,2.5,MG,Others,BID,Others,Schizophrenia,HO
+Mirena,INTRAUTERINE,20,UG,INTRAUTERINE DELIVERY SYSTEM,Others,Others,Device dislocation,OT
+XALATAN,Ophthalmic,3,UG,"EYE DROPS, SOLUTION",QD,PFIZER,Cataract,OT
+XOLAIR,Subcutaneous,300,MG,SOLUTION FOR INJECTION,Others,ROCHE,Hypertension,HO
+MIRCERA,SUBCUTANEOUS,200,UG,SOLUTION FOR INJECTION,/month,Others,Death,DE
+XIFAXAN,Oral,550,MG,TABLET,BID,Others,Hepatic cirrhosis,DE
+STELARA,Subcutaneous,45,MG,SOLUTION FOR INJECTION,Others,Others,Gastroenteritis viral,OT
+ENBREL,Subcutaneous,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Drug dependence,OT
+ETOPOSIDE.,Unknown,100,MG,Others,Others,Others,Hepatitis C,OT
+INVEGA SUSTENNA,Intramuscular,156,MG,INJECTION,Others,Others,Hospitalisation,HO
+BAXTER 5% GLUCOSE 100ML INJECTION BP BAG AHB0087 AHB0094,INTRAVENOUS,530,ML,SOLUTION FOR INFUSION,Others,Others,Anaphylactic reaction,LT
+REVLIMID,ORAL,25,MG,CAPSULES,Others,Others,Tumour lysis syndrome,HO
+IMBRUVICA,Oral,420,MG,CAPSULE,QD,Others,Post procedural complication,DE
+REVLIMID,Oral,10,MG,CAPSULES,QD,Others,Pancytopenia,HO
+USTEKINUMAB,Subcutaneous,90,MG,SOLUTION FOR INJECTION,Others,JANSSEN,Tonsillitis,HO
+REVLIMID,Oral,25,MG,CAPSULES,QD,Others,Enterocolonic fistula,HO
+Avandia,ORAL,8,MG,TABLET,QD,Others,Myocardial infarction,HO
+TECFIDERA,Oral,240,MG,PROLONGED-RELEASE CAPSULE,BID,BIOGEN,Cerebrovascular accident,HO
+REVLIMID,Oral,10,MG,CAPSULES,QD,Others,Death,DE
+DIANEAL,Intraperitoneal,5,L,SOLUTION FOR PERITONEAL DIALYSIS,Others,Others,Pulmonary oedema,HO
+GEMCITABINE HYDROCHLORIDE,Unknown,1860,MG,Others,Others,Others,Device related infection,HO
+TYSABRI,INTRAVENOUS,300,MG,INTRAVENOUS INFUSION,/month,Others,Death,DE
+THALOMID,Oral,50,MG,CAPSULES,QD,Others,White blood cell count decreased,OT
+REMODULIN,Intravenous drip,0.05,UG/KG,INJECTION,Others,Others,Dyspnoea,HO
+CELLCEPT,ORAL,500,MG,TABLET,BID,Others,Agranulocytosis,HO
+REVLIMID,ORAL,10,MG,CAPSULES,Others,Others,Drug ineffective,OT
+REVLIMID,Oral,15,MG,CAPSULES,QD,CELGENE,Dermatitis allergic,OT
+AMBRISENTAN,Unknown,5,MG,TABLET,QD,Others,Knee operation,HO
+RABECURE,Oral,1,DF,Others,BID,Others,Erythema multiforme,OT
+DEXAMETHASONE.,Oral,500,UG,Others,Others,Others,Periprosthetic fracture,HO
+REVLIMID,Oral,25,MG,CAPSULES,QD,Others,Plasmacytoma,OT
+Lyrica,ORAL,150,MG,"CAPSULE, HARD",TID,PFIZER,Lung neoplasm malignant,OT
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION,QOW,Others,Death,DE
+NEURONTIN,Unknown,600,MG,Others,Others,Others,Lethargy,HO
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION,QOW,Others,Ovarian cyst,OT
+LETAIRIS,Unknown,5,MG,TABLET,QD,Others,Sinusitis,HO
+ARIMIDEX,ORAL,1,MG,TABLET,QD,Others,Osteoarthritis,HO
+XOLAIR,Subcutaneous,300,MG,Others,Others,Others,Herpes zoster,OT
+CLARINEX,ORAL,5,MG,TABLET,Others,MERCK,Rash papular,OT
+DOXYCYCLINE.,Oral,1,DF,Others,QD,Others,Suicide attempt,LT
+RANMARK,Subcutaneous,120,MG,SOLUTION FOR INJECTION,Others,AMGEN,Osteonecrosis of jaw,OT
+REVLIMID,Oral,10,MG,CAPSULES,Others,Others,Death,DE
+ENBREL,Subcutaneous,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Systemic lupus erythematosus,OT
+INVOKANA,Oral,100,MG,TABLET,QD,Others,Ketoacidosis,OT
+ENBREL,UNKNOWN,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Kidney infection,OT
+ENBREL,SUBCUTANEOUS,25,MG,POWDER AND SOLVENT FOR SOLUTION FOR INJECTION,BIW,AMGEN,Knee arthroplasty,OT
+GILENYA,Oral,1,DF,CAPSULE,QD,Others,Multiple sclerosis relapse,OT
+Xtandi,ORAL,160,MG,CAPSULE,QD,Others,Malignant neoplasm progression,OT
+XENAZINE,ORAL,12.5,MG,TABLET,BID,Others,Hospitalisation,HO
+E KEPPRA,ORAL,35,MG,TABLET,BID,UCB,Retinal degeneration,OT
+XARELTO,Oral,20,MG,TABLET,Others,Others,Gastrointestinal haemorrhage,HO
+HEPTODIN,Oral,100,MG,Others,QD,Others,Viral load increased,HO
+ZOMETA,INTRAVENOUS,4,MG,SOLUTION FOR INFUSION,Others,Others,Terminal state,OT
+REVLIMID,ORAL,15,MG,Others,Q21D,Others,Neutropenia,OT
+SPIRIVA,INHALATION,18,UG,"INHALATION POWDER, HARD CAPSULE",QD,Others,Malignant neoplasm progression,DE
+REVLIMID,Oral,25,MG,CAPSULES,Others,Others,Gastrointestinal bacterial infection,OT
+HUMIRA,SUBCUTANEOUS,40,MG,INJECTION,QOW,Others,Dermatitis,HO
+FORXIGA,Oral,10,MG,TABLET,QD,Others,Ketoacidosis,HO
+Enbrel,SUBCUTANEOUS,50,MG,UNKNOWN FORMULATION,/wk,Others,Cerebrovascular accident,OT
+PROGRAF,ORAL,0.5,MG,FORMULATION UNKNOWN,BID,Others,Cerebrovascular accident,HO
+REFLEX,ORAL,7.5,MG,TABLET,QD,Others,Completed suicide,DE
+AVONEX,INTRAMUSCULAR,30,UG,Others,/wk,Others,Fall,HO
+OXALIPLATIN.,UNKNOWN,130,MG/M**2,INTRAVENOUS INFUSION,Q3W,Others,Hepatitis viral,DE
+Eribulin,INTRAVENOUS DRIP,1.4,MG/M**2,Others,Others,EISAI,Intestinal obstruction,HO
+Tenofovir disofoxil fumarate,Unknown,300,G,TABLET,Others,Others,Lipodystrophy acquired,OT
+LUCENTIS,Other,0.5,MG,Others,/month,Others,Hip fracture,HO
+REVLIMID,ORAL,2.5,MG,CAPSULES,QD,Others,Death,DE
+PLAVIX,ORAL,75,MG,FILM-COATED TABLET,QD,AVENTIS,Rectal haemorrhage,OT
+TETRABENAZINE,Unknown,25,MG,Others,QD,Others,Paroxysmal perceptual alteration,OT
+ELIQUIS,Oral,5,MG,Others,BID,Others,Throat cancer,OT
+Lyrica,ORAL,50,MG,Others,TID,Others,Myocardial infarction,OT
+Xtandi,ORAL,160,MG,CAPSULE,QD,Others,Death,DE
+SOM230,SUBCUTANEOUS,0.6,MG,Others,BID,Others,Hyperglycaemia,OT
+REVLIMID,ORAL,10,MG,CAPSULES,QD,Others,Leukaemia,OT
+Ribavirin 200 mg,Oral,200,MG,"CAPSULE, HARD",Others,KADMON,Hepatocellular carcinoma,HO
+Lyrica,Unknown,25,MG,Others,Others,Others,Cystitis,OT
+THALOMID,ORAL,50,MG,CAPSULES,QD,Others,Death,DE
+TERIFLUNOMIDE,Oral,7,MG,COATED TABLET,QD,AVENTIS,Appendicitis,HO
+ERIVEDGE,Oral,150,MG,Others,QD,Others,Anaemia,HO
+MEKINIST,ORAL,2,MG,TABLET,QD,GLAXOSMITHKLINE,Death,DE
+SENSIPAR,Oral,60,MG,TABLET,QD,Others,Diarrhoea,HO
+THALOMID,Oral,200,MG,CAPSULES,QD,Others,Neuropathy peripheral,OT
+Methoxy Polyethylene Glycol-Epoetin Beta,INTRAVENOUS,100,UG,Others,Others,ROCHE,Cerebral infarction,LT
+ONBREZ,INHALATION,300,UG,DRY POWDER INHALER,Others,Others,Cardiac arrest,OT
+HUMIRA,Subcutaneous,40,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,QOW,Others,Death,DE
+REVLIMID,ORAL,25,MG,CAPSULES,QD,Others,Pneumonia,HO
+IPILIMUMAB,Unknown,10,MG/KG,INJECTION,Others,Others,Thrombocytopenia,HO
+LIPITOR,Oral,20,MG,FILM-COATED TABLET,QD,Others,Type 2 diabetes mellitus,OT
+Lucentis,UNKNOWN,0.3,MG,Others,/month,Others,Death,DE
+SPRYCEL,ORAL,1,DF,TABLET,Others,Others,Malignant neoplasm progression,DE
+HIZENTRA,Subcutaneous,14,G,Others,/wk,Others,Lung infection,OT
+XGEVA,SUBCUTANEOUS,1.7,ML,SOLUTION FOR INJECTION,Others,Others,Death,DE
+STELARA,Subcutaneous,45,MG,SOLUTION FOR INJECTION,Others,Others,Bladder cancer,OT
+Avastin,INTRAVENOUS,10,MG/KG,Others,/wk,ROCHE,Pleural effusion,OT
+INLYTA,ORAL,5,MG,FILM-COATED TABLET,BID,Others,Death,DE
+OTEZLA,Oral,30,MG,TABLETS,BID,Others,Myocardial infarction,OT
+XELJANZ,Oral,5,MG,TABLET,BID,Others,Lung infection,OT
+ALIMTA,Intravenous (not otherwise specified),775,MG,Others,Others,ELI LILLY AND CO,Neutropenia,OT
+SABRIL,Oral,1500,MG,POWDER FOR ORAL SOLUTION,BID,Others,Surgery,HO
+SIMPONI,Subcutaneous,50,MG,SOLUTION FOR INJECTION,/month,JANSSEN,Herpes zoster,HO
+SUTENT,ORAL,50,MG,"CAPSULE, HARD",QD,Others,General physical health deterioration,DE
+ATOVAQUONE.,ORAL,750,MG,ORAL SUSPENSION,BID,Others,Death,DE
+FLUOXETINE HYDROCHLORIDE.,Oral,1,DF,Others,Others,Others,Suicidal ideation,OT
+REVATIO,Unknown,20,MG,FILM-COATED TABLET,TID,Others,Death,DE
+REVLIMID,ORAL,10,MG,Others,QD,Others,Anaemia,OT
+REVLIMID,ORAL,10,MG,CAPSULES,Others,Others,Foot fracture,OT
+denosumab,SUBCUTANEOUS,1,ML,INVESTIGATIONAL DOSAGE FORM,Others,Others,Death,DE
+VICTRELIS,Unknown,800,MG,CAPSULE,TID,Others,Anaemia,HO
+CEFTRIAXONE.,Unknown,1,DF,Others,Others,Others,Jarisch-Herxheimer reaction,OT
+COLIATIMETHATE 150 MG X-CEN,Respiratory (inhalation),150,MG,Others,BID,Others,Lung disorder,HO
+ENBREL,Subcutaneous,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Rheumatoid arthritis,OT
+CANCIDAS,Intravenous drip,70,MG,INJECTION,QD,MERCK,Interstitial lung disease,DE
+Enbrel,Unknown,50,MG,Others,/wk,Others,Gallbladder disorder,OT
+REMODULIN,SUBCUTANEOUS,0.011,UG/KG,INJECTION,Others,UNITED THERAPEUTICS,Platelet transfusion,HO
+Aranesp,SUBCUTANEOUS,500,UG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,Q3W,Others,Death,DE
+ENBREL,Unknown,50,MG,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,/wk,Others,Hip surgery,OT
+XARELTO,Oral,20,MG,TABLET,Others,Others,Epistaxis,HO
+FLUOROURACIL (FLUOROURACIL) (FLUOROURACIL),Unknown,500,MG/M**2,Others,QD,Others,Pericardial effusion,DE
+NIVOLUMAB,Intravenous (not otherwise specified),190,MG,SOLUTION FOR INJECTION,Others,BRISTOL MYERS SQUIBB,General physical health deterioration,HO
+POMALYST,Oral,4,MG,CAPSULES,Others,Others,Pulmonary thrombosis,OT
+TASIGNA,Oral,300,MG,CAPSULE,BID,Others,Blindness,OT
+HUMIRA,Subcutaneous,40,MG,SUSPENSION FOR INJECTION,QOW,Others,Headache,OT
+LUCENTIS,Other,0.5,MG,Others,Others,Others,Cerebrovascular accident,OT
+PRADAXA,Oral,150,MG,CAPSULE,BID,Others,Atrial fibrillation,HO
+SOMAVERT,Subcutaneous,10,MG,POWDER AND SOLVENT FOR SOLUTION FOR INJECTION,Others,Others,Gallbladder disorder,OT
+REVLIMID,ORAL,25,MG,Others,Others,Others,Staphylococcal infection,HO
+HUMIRA,SUBCUTANEOUS,40,MG,Others,QOW,Others,Myocardial infarction,DE
+REVLIMID,Oral,25,MG,CAPSULES,QD,Others,Cerebrovascular accident,HO
+NIVOLUMAB,Intravenous (not otherwise specified),141,MG,SOLUTION FOR INJECTION,QD,BRISTOL MYERS SQUIBB,Alanine aminotransferase increased,HO
+NIVOLUMAB,UNKNOWN,1,MG/KG,SOLUTION FOR INJECTION,Q3W,BRISTOL MYERS SQUIBB,Diarrhoea,HO

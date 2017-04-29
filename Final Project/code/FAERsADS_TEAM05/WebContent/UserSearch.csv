@@ -1,0 +1,67 @@
+DrugName,Age,Sex,Reactions
+LEVOTHYROXINE SODIUM,64,F,Cerebral disorder
+LISINOPRIL,66,M,Renal failure
+LISINOPRIL,57,M,Angioedema
+LISINOPRIL,52,M,Renal failure acute
+LISINOPRIL,54,M,Hyperkalaemia
+LISINOPRIL,51,M,Cardiac arrest
+Omeprazole,35,M,Drug administration error
+Omeprazole,61.144,F,Osteoporosis
+Omeprazole,63,F,Ageusia
+Omeprazole,57,M,Mouth ulceration
+Omeprazole,70,F,Colitis
+Metformin,56,F,Pancreatitis
+Metformin,61,M,Lactic acidosis
+Metformin,62,M,Facial spasm
+Metformin,55,M,Amnesia
+Metformin,72,F,Faecal incontinence
+Azithromycin,64,M,Dysentery
+Azithromycin,77,F,Cardiac arrest
+Azithromycin,83,M,Cardiac failure
+Azithromycin,63,F,Depressed mood
+Azithromycin,41,F,Peritonitis
+Zolpidem,59,M,Drug effect decreased
+Zolpidem,63,M,Suicidal ideation
+Zolpidem,28,M,Mania
+Zolpidem,33,M,Psychotic disorder
+Zolpidem,30,M,Hallucination
+Hydrochlorothiazide,66,M,Syncope
+Hydrochlorothiazide,64,M,Lichen planus
+Hydrochlorothiazide,68,M,Pancreatitis
+Hydrochlorothiazide,90,M,Hypokalaemia
+Hydrochlorothiazide,93,F,Hyponatraemia
+Amlodipine,87,F,Cough
+Amlodipine,68,M,Angioedema
+Amlodipine,75,M,Concussion
+Amlodipine,65,M,Pain in extremity
+Amlodipine,77,M,Oedema
+Simvastatin,56,M,Psoriasis
+Simvastatin,65,F,Hyperventilation
+Simvastatin,71,M,Neoplasm prostate
+Simvastatin,64,F,Pruritus
+Simvastatin,72,M,Skin lesion
+Metoprolol,65,M,Presyncope
+Metoprolol,72,M,Acute coronary syndrome
+Metoprolol,68,M,Hypotension
+Metoprolol,68,M,Syncope
+Metoprolol,52,M,Suicidal ideation
+Losartan,64,M,Renal failure acute
+Losartan,69,M,Hypotension
+Losartan,56,M,Angioedema
+Losartan,84,M,Urticaria
+Losartan,67,M,Large intestine polyp
+Furosemide,66,M,Renal failure acute
+Furosemide,61,M,Hypotension
+Furosemide,84,F,Syncope
+Furosemide,87,M,Dizziness
+Furosemide,80,M,Cardiac failure
+Pantoprazole,82,M,Drug eruption
+Pantoprazole,70,M,No therapeutic response
+Pantoprazole,61,M,Hepatotoxicity
+Pantoprazole,34,F,Subacute hepatic failure
+Pantoprazole,42,F,Agranulocytosis
+Gabapentin,38,F,Abortion spontaneous
+Gabapentin,76,M,Angioedema
+Gabapentin,66,F,Renal impairment
+Gabapentin,33,M,Back pain
+Gabapentin,47,F,Teeth brittle
