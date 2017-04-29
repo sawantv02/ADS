@@ -1,0 +1,34 @@
+FAERS OUTCOME CLASSIFICATION - A web-based interactive system for ADR detection and analysis.
+ 
+
+FDA PERSON / HEALTH PROFESSIONAL
+
+This application is for the use of FDA Officer or any Health Care Professional who can login to the system and check whether the drug reaction reported is causing any harmful effects on public. Also, it predicts the
+
+probability of the outcome based on the drug reaction reported. 
+
+USER
+
+ Normal Public can also use this website to check the reaction associated with the drugs which were reported to the FDA over the past few years and make sure that the given prescribed drug is causing any major harm to health or not.
+
+
+Docker run instructions:
+
+docker run -e ACCESS_KEY=<YOUR_ACCESS_KEY> -e SECRET_KEY=<YOUR_SECRET_KEY> -e S3_PATH=<YOUR_S3_PATH>  -e REGION=<BUCKET_REGION> ankitbhayani/finalprojectads2017 /src/driverShell.sh
+
+
+
+Youtube Link:
+
+
+
+
+Website Link:
+
+http://faersoutcomeclassificationteam05.azurewebsites.net/FAERsADS_TEAM05/index.htm
+
+
+
+Azure ML studio account Login details
+
+Can be found in Outlook_Account_Details.txt
